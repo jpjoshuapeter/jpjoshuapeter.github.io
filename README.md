@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-    <title>60 Seconds of Code</title>
+    <title>JP Consulting</title>
     <link rel="sytlesheet" href="styles.css" />
 </head>
 <body>
